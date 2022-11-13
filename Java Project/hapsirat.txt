@@ -1,0 +1,4 @@
+"DhomaStandarde;5;"Great Room";99.60;"nice"
+"DhomaVIP;5;"Great Room";95.60;;"nice"
+"Restoranti;5;"Great Room";95.60;"nice"
+"SallaPerKonferenca;5;"Great Room";95.60;"nice"
